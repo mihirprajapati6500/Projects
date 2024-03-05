@@ -115,5 +115,15 @@ ORDER BY MONTHLYINCOME DESC LIMIT 1 OFFSET 2;
 
 
 
-
+ -- insights for hr projects--
+ 
+ 
+ -- three department of in hr database
+ --  total no of male 854 and female 569 in hr database 
+ -- Maximum sales executive job role in hr database
+ -- in all jobrole employee average job statisfaction is  2.60 .
+ -- computed the average 66 hours for all employees work in the hr database
+ -- in business travel  mostly employees are travel rarely use.
+ --  in marital status married employees are more than single and divorced employees.
+ --  
  
